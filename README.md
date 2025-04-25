@@ -36,6 +36,4 @@ Contributions are welcome! If you'd like to enhance the system:
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For queries and support, please reach out to [m.monishamani2005@gmail.com].
 
